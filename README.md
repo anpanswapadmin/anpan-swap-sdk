@@ -1,8 +1,6 @@
 # Anpanswap SDK
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![Actions Status](https://github.com/anpanswap/anpanswap-sdk/workflows/CI/badge.svg)](https://github.com/anpanswap/anpanswap-sdk)
-[![npm version](https://img.shields.io/npm/v/@anpanswap-lib/sdk/latest.svg)](https://www.npmjs.com/package/@anpanswap-lib/sdk/v/latest)
 
 ## Running tests
 
